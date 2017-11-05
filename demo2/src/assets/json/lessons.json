@@ -1,0 +1,46 @@
+[
+  {
+    "name": "ES5/6/7",
+    "days": 2
+  },
+  {
+    "name": "JS高级",
+    "days": 3
+  },
+  {
+    "name": "JS模块化",
+    "days": 1.5
+  },
+  {
+    "name": "react及项目",
+    "days": 8
+  },
+  {
+    "name": "redux",
+    "days": 1
+  },
+  {
+    "name": "vue及项目",
+    "days": 8
+  },
+  {
+    "name": "vue源码分析",
+    "days": 2
+  },
+  {
+    "name": "vuex",
+    "days": 1
+  },
+  {
+    "name": "webpack模块化打包",
+    "days": 2
+  },
+  {
+    "name": "项目实战",
+    "days": 7
+  },
+  {
+    "name": "前端项目性能优化",
+    "days": 2
+  }
+]
